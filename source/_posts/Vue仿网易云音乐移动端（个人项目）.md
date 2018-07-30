@@ -2,6 +2,8 @@
 title: Vue仿网易云音乐移动端（个人项目）
 date: 2018-07-29 16:43:31
 tags: [Vue, materialDesign, 个人项目, 技术]
+top: true
+reward: true
 ---
 
 # vue-music-h5
@@ -20,7 +22,13 @@ Vue 仿网易云音乐，移动版。（可通过 cordova 直接打包成 apk）
 
 ![](https://ws1.sinaimg.cn/large/0064OUUqly1ftogxdfrmej30u01hc7dx.jpg)
 
+## 项目地址
+
+[github 项目地址](https://github.com/snoopy1996/express-angularjs-EMS)
+
 ## 在线预览
+
+[预览地址](http://supersy.xyz/music-wy)
 
 ![](https://ws1.sinaimg.cn/large/0064OUUqly1ftoh0r5fpcj308307rdg0.jpg)
 
