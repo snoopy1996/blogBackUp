@@ -1,8 +1,7 @@
 ---
 title: localforage持久化存储
-date: 2018-07-28 20:48:16
+date: 2018-07-29 20:48:16
 tags: [localforage, js, 前端存储, 技术]
-top: true
 reward: true
 ---
 

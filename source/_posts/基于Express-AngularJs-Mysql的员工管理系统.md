@@ -2,7 +2,6 @@
 title: 基于Express/AngularJs/Mysql的员工管理系统
 date: 2018-07-30 09:38:37
 tags: [Express, AngularJs, Mysql, 管理系统, 技术]
-top: true
 reward: true
 ---
 

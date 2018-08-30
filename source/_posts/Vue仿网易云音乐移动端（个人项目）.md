@@ -2,7 +2,6 @@
 title: Vue仿网易云音乐移动端（个人项目）
 date: 2018-07-29 16:43:31
 tags: [Vue, materialDesign, 个人项目, 技术]
-top: true
 reward: true
 ---
 
