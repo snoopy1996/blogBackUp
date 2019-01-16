@@ -1,7 +1,7 @@
 ---
 title: Nginx配置SSL及反向代理
 date: 2019-01-16 19:52:45
-tags: [nginx, https, ssl, 反向代理]
+tags: [技术, nginx, https, ssl, 反向代理]
 ---
 
 最近搞毕设，前端准备使用 PWA，而 PWA 的一项要求就是网站应该是`https`而非`http`的，所以就查了一些资料，做一下简单的配置记录。
